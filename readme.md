@@ -1,5 +1,7 @@
 **/quartus/
 **/Quartus/
+/**/quartus/
+/**/Quartus/
 *.qdz
 *.zip
 *.sof
