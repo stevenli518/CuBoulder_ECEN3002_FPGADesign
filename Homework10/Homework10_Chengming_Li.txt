@@ -1,0 +1,14 @@
+ECEN3002 - Homework10
+Student: Chengming Li
+
+1.  Did you complete the JTAG portion of the lab? 
+    Yes, I have completed the JTAG portion of the lab.
+
+2.  Were there any parts of this lab that did not work for you? 
+    Everything works in the JTAG portion. I broke the JTAG chain, and I was able to repalce the jumper back so that all are well.
+
+3.  Did you complete the Flash programming portion of the lab? 
+    Yes, I finished the flash programming portion of the lab. And I got the factory program back to the board at the end.
+
+4.  Were there any parts of this lab that did not work for you? 
+    Everything works in this lab. And I was able to fix the tiny mistake I made in Part3 3), which is the extra 0 when I type 0x. 

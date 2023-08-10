@@ -1,0 +1,18 @@
+DEPTH = 64;  
+WIDTH = 24;  
+
+ADDRESS_RADIX = DEC; 
+DATA_RADIX = HEX; 
+
+CONTENT
+BEGIN
+%RED,GREEN, BLUE %
+[0..7]  :   ffffff;
+[8..15]  :   ff0000;
+[16..23]:   00ff00;
+[24..31]:   0000ff;
+[32..39]:   204060;
+[40..47]:   406020;
+[48..55]:   602040;
+[56..63]:   000000;
+END; 

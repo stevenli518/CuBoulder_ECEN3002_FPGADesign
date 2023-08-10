@@ -1,0 +1,1 @@
+qexec "quartus_pgm.exe Lab1.cdf"     

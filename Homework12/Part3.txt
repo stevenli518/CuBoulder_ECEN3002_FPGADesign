@@ -1,0 +1,20 @@
+Info (144001): Generated suppressed messages file C:/Users/LiChe/ECEN3002/Lab1/Quartus/Lab1.fit.smsg
+Info: Quartus Prime Fitter was successful. 0 errors, 67 warnings
+	Info: Peak virtual memory: 6786 megabytes
+	Info: Processing ended: Sun Nov 14 11:28:32 2021
+	Info: Elapsed time: 00:00:26
+	Info: Total CPU time (on all processors): 00:01:01
+Info: *******************************************************************
+Info: Running Quartus Prime Shell
+	Info: Version 20.1.1 Build 720 11/11/2020 SJ Standard Edition
+	Info: Processing started: Sun Nov 14 11:28:33 2021
+Info: Command: quartus_sh -t pins.tcl quartus_fit Lab1 Lab1
+Info: Quartus(args): quartus_fit Lab1 Lab1
+Info: All 15 input pins have been assigned locations.
+Info: All 10 output pins have been assigned locations.
+Info (23030): Evaluation of Tcl script pins.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+	Info: Peak virtual memory: 4637 megabytes
+	Info: Processing ended: Sun Nov 14 11:28:34 2021
+	Info: Elapsed time: 00:00:01
+	Info: Total CPU time (on all processors): 00:00:00

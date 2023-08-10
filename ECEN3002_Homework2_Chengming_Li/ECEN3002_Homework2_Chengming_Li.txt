@@ -1,0 +1,25 @@
+Q1:
+LED9 is on for all the time
+LED8 is off for all the time
+LED[7:0] is a count-up counter
+
+Q2:
+Pushbuttons do nothing in my side
+
+Q3:
+up_down_n
+
+Q4:
+DE-SoC [USB-1]
+
+Q5:
+@2: 5CSEBA6(.|ES)/5CSEMA6/.. (ox02D020DD)
+
+Q6:
+write_source_data -instance_index 0 -value 1
+
+Q7:
+write_source_data -instance_index 1 -value 0
+
+Q8:
+read_probe_data -instance_index 2 -value_in_hex
